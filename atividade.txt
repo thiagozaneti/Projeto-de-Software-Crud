@@ -1,0 +1,9 @@
+Contas - id, nome, total 
+despesas - id, data, preco, valor
+implementar as 4 funções crud para contas e despesas
+
+CRUD
+-Create (adiciona)
+-Read (consulta, pesquisa)
+-Update (alterar, atualizar)
+-Delete (apagar)
